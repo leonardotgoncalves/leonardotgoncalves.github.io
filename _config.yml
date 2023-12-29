@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leonardo Tresoldi Goncalves"
+  name             : "Leonardo Tresoldi Gonçalves"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Porto Alegre, RS, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?user=TiBaAVsAAAAJ&hl=en-US"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Leonardo-Goncalves-9"
