@@ -6,35 +6,35 @@ author_profile: true
 ---
 
 ## 2023
-**Gonçalves LT**, Françoso E, Deprá M. 2023. Mitochondrial phylogenomics of bumblebees, _Bombus_ (Hymenoptera: Apidae): a tale of structural variation, shifts in selection constraints, and tree discordance. _Zoological Journal of the Linnean Society_. [[PDF]](http://leonardotgoncalves.github.io/files/paper1.pdf)
+**Gonçalves LT**, Françoso E, Deprá M. 2023. Mitochondrial phylogenomics of bumblebees, _Bombus_ (Hymenoptera: Apidae): a tale of structural variation, shifts in selection constraints, and tree discordance. _Zoological Journal of the Linnean Society_. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Goncalves_et_al.pdf)
 
-Backes A, Pezzi PH, **Gonçalves LT**, Greppi JA, Freitas LB. 2023. Integrating morphology, niche modelling, and molecular data to disentangle taxonomic challenges in a species complex of _Calibrachoa_ (Solanaceae). _Plant Ecology & Diversity_.
+Backes A, Pezzi PH, **Gonçalves LT**, Greppi JA, Freitas LB. 2023. Integrating morphology, niche modelling, and molecular data to disentangle taxonomic challenges in a species complex of _Calibrachoa_ (Solanaceae). _Plant Ecology & Diversity_. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Backes_et_al.pdf)
 
-Lindner MF, **Gonçalves LT**, Bianchi FM, Ferrari A, Cavalleri A. 2023. Tiny insects, big troubles: a review of BOLD's COI database for Thysanoptera (Insecta). _Bulletin of Entomological Research_.
+Lindner MF, **Gonçalves LT**, Bianchi FM, Ferrari A, Cavalleri A. 2023. Tiny insects, big troubles: a review of BOLD's COI database for Thysanoptera (Insecta). _Bulletin of Entomological Research_. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Lindner_et_al.pdf)
 
-Françoso E, Zuntini AR, Ricardo PC, Santos PKF, Araujo NS, Silva JPN, **Gonçalves LT**, Brito R, Gloag R, Taylor BA, Harpur BA, Oldroyd BP, Brown MJF, Arias MC. 2023. Rapid evolution, rearrangements and whole mitogenome duplication in the Australian stingless bees _Tetragonula_ (Hymenoptera: Apidae): A steppingstone towards understanding mitochondrial function and evolution. _International Journal of Biological Macromolecules_ 242: 124568.
+Françoso E, Zuntini AR, Ricardo PC, Santos PKF, Araujo NS, Silva JPN, **Gonçalves LT**, Brito R, Gloag R, Taylor BA, Harpur BA, Oldroyd BP, Brown MJF, Arias MC. 2023. Rapid evolution, rearrangements and whole mitogenome duplication in the Australian stingless bees _Tetragonula_ (Hymenoptera: Apidae): A steppingstone towards understanding mitochondrial function and evolution. _International Journal of Biological Macromolecules_ 242: 124568. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Francoso_et_al.pdf)
 
-Pezzi PH\*, **Gonçalves LT**\*, Deprá M, Freitas LB. 2023. Evolution and diversification of the O-methyltransferase (OMT) gene family in Solanaceae. _Genetics and Molecular Biology_ 46(3): e20230121. *these authors contributed equally to this work.
+Pezzi PH\*, **Gonçalves LT**\*, Deprá M, Freitas LB. 2023. Evolution and diversification of the O-methyltransferase (OMT) gene family in Solanaceae. _Genetics and Molecular Biology_ 46(3): e20230121. *these authors contributed equally to this work. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Pezzi_et_al.pdf)
 
 ## 2022
 
-**Gonçalves LT**, Françoso E, Deprá M. 2022. Shorter, better, faster, stronger? Comparing the identification performance of full-length and mini-DNA barcodes for apid bees (Hymenoptera: Apidae). _Apidologie_ 53(5): 55.
+**Gonçalves LT**, Françoso E, Deprá M. 2022. Shorter, better, faster, stronger? Comparing the identification performance of full-length and mini-DNA barcodes for apid bees (Hymenoptera: Apidae). _Apidologie_ 53(5): 55. [[PDF]](http://leonardotgoncalves.github.io/files/2022_Goncalves_et_al_Apidologie.pdf)
 
-Timm VF, **Gonçalves LT**, Valente VLS, Deprá M. 2022. The efficiency of the COI gene as a DNA barcode and an overview of Orthoptera (Caelifera and Ensifera) sequences in the BOLD System. _Canadian Journal of Zoology_ 100(11): 710−718.
+Timm VF, **Gonçalves LT**, Valente VLS, Deprá M. 2022. The efficiency of the COI gene as a DNA barcode and an overview of Orthoptera (Caelifera and Ensifera) sequences in the BOLD System. _Canadian Journal of Zoology_ 100(11): 710−718. [[PDF]](http://leonardotgoncalves.github.io/files/2022_Timm_et_al.pdf)
 
-**Gonçalves LT**, Pezzi PH, Bianchi FM. 2022. Four new stink bug mitogenomes corroborate the internal inconsistencies in the classification of Pentatomidae (Hemiptera). _Zootaxa_ 5120(1): 128−142.
+**Gonçalves LT**, Pezzi PH, Bianchi FM. 2022. Four new stink bug mitogenomes corroborate the internal inconsistencies in the classification of Pentatomidae (Hemiptera). _Zootaxa_ 5120(1): 128−142. [[PDF]](http://leonardotgoncalves.github.io/files/2022_Goncalves_et_al_Zootaxa.pdf)
 
 ## 2021
 
-Bianchi FM, **Gonçalves LT**. 2021. Getting science priorities straight: how to increase the reliability of specimen identification? _Biology Letters_ 17(4): 20200874.
+Bianchi FM, **Gonçalves LT**. 2021. Getting science priorities straight: how to increase the reliability of specimen identification? _Biology Letters_ 17(4): 20200874. [[PDF]](http://leonardotgoncalves.github.io/files/2021_Bianchi_and_Goncalves_BiolLetters.pdf)
 
-Bianchi FM, **Gonçalves LT**. 2021. Borrowing the Pentatomomorpha tome from the DNA barcode library: Scanning the overall performance of cox1 as a tool. _Journal of Zoological Systematics and Evolutionary Research_ 59(5): 992−1012.
+Bianchi FM, **Gonçalves LT**. 2021. Borrowing the Pentatomomorpha tome from the DNA barcode library: Scanning the overall performance of cox1 as a tool. _Journal of Zoological Systematics and Evolutionary Research_ 59(5): 992−1012. [[PDF]](http://leonardotgoncalves.github.io/files/2021_Bianchi_and_Goncalves_JZSER.pdf)
 
-**Gonçalves LT**, Bianchi FM, Deprá M, Calegaro-Marques C. 2021. Barcoding a can of worms: testing cox1 performance as a DNA barcode of Nematoda. _Genome_ 64(7): 705−717.
+**Gonçalves LT**, Bianchi FM, Deprá M, Calegaro-Marques C. 2021. Barcoding a can of worms: testing cox1 performance as a DNA barcode of Nematoda. _Genome_ 64(7): 705−717. [[PDF]](http://leonardotgoncalves.github.io/files/2021_Goncalves_et_al.pdf)
 
 ## 2018
 
-Almerón-Souza F, Sperb C, Castilho CL, Figueiredo PICC, **Gonçalves LT**, Machado R, Oliveira LR, Valiati VH, Fagundes NJR. 2018. Molecular identification of shark meat from local markets in Southern Brazil based on DNA barcoding: evidence for mislabeling and trade of endangered species. _Frontiers in Genetics_ 9: 138.
+Almerón-Souza F\*, Sperb C\*, Castilho CL, Figueiredo PICC, **Gonçalves LT**, Machado R, Oliveira LR, Valiati VH\*, Fagundes NJR\*. 2018. Molecular identification of shark meat from local markets in Southern Brazil based on DNA barcoding: evidence for mislabeling and trade of endangered species. _Frontiers in Genetics_ 9: 138. \*these authors contributed equally to this work. [[PDF]](http://leonardotgoncalves.github.io/files/2018_Almeron-Souza_et_al.pdf)
 
 
 {% if author.googlescholar %}
