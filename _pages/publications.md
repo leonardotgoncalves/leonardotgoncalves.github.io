@@ -30,7 +30,7 @@ Bianchi FM, **Gonçalves LT**. 2021. Getting science priorities straight: how to
 
 Bianchi FM, **Gonçalves LT**. 2021. Borrowing the Pentatomomorpha tome from the DNA barcode library: Scanning the overall performance of cox1 as a tool. _Journal of Zoological Systematics and Evolutionary Research_ 59(5): 992−1012.
 
-**Gonçalves LT**, Bianchi FM, Deprá M, Calegaro-Marques C. 2021. Barcoding a can of worms: testing cox1 performance as a DNA barcode of Nematoda. _Genome_ 64(7): 1−13.
+**Gonçalves LT**, Bianchi FM, Deprá M, Calegaro-Marques C. 2021. Barcoding a can of worms: testing cox1 performance as a DNA barcode of Nematoda. _Genome_ 64(7): 705−717.
 
 ## 2018
 
