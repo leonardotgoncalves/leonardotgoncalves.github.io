@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Leonardo Tresoldi Gonçalves"
-  avatar           : "profile.png"
+  avatar           : "profile-pic.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Porto Alegre, RS, Brazil"
   employer         :
@@ -178,9 +178,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  #publications:
+  #  output: true
+  #  permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
