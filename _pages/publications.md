@@ -10,7 +10,7 @@ author_profile: true
 
 Backes A, Pezzi PH, **Gonçalves LT**, Greppi JA, Freitas LB. 2023. Integrating morphology, niche modelling, and molecular data to disentangle taxonomic challenges in a species complex of _Calibrachoa_ (Solanaceae). _Plant Ecology & Diversity_. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Backes_et_al.pdf)
 
-Lindner MF, **Gonçalves LT**, Bianchi FM, Ferrari A, Cavalleri A. 2023. Tiny insects, big troubles: a review of BOLD's COI database for Thysanoptera (Insecta). _Bulletin of Entomological Research_. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Lindner_et_al.pdf)
+Lindner MF, **Gonçalves LT**, Bianchi FM, Ferrari A, Cavalleri A. 2023. Tiny insects, big troubles: a review of BOLD's COI database for Thysanoptera (Insecta). _Bulletin of Entomological Research_ 113(5):703−715. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Lindner_et_al.pdf)
 
 Françoso E, Zuntini AR, Ricardo PC, Santos PKF, Araujo NS, Silva JPN, **Gonçalves LT**, Brito R, Gloag R, Taylor BA, Harpur BA, Oldroyd BP, Brown MJF, Arias MC. 2023. Rapid evolution, rearrangements and whole mitogenome duplication in the Australian stingless bees _Tetragonula_ (Hymenoptera: Apidae): A steppingstone towards understanding mitochondrial function and evolution. _International Journal of Biological Macromolecules_ 242: 124568. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Francoso_et_al.pdf)
 
