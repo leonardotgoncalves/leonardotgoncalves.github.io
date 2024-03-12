@@ -5,10 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+
+Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. 2024. How do novel evolutionary lineages arise in a biodiversity hotspot? Insights into the dynamics of rapid diversification of _Petunia_. _Evolution_, Under Review.
+
 ## 2023
 **Gonçalves LT**, Françoso E, Deprá M. 2023. Mitochondrial phylogenomics of bumblebees, _Bombus_ (Hymenoptera: Apidae): a tale of structural variation, shifts in selection constraints, and tree discordance. _Zoological Journal of the Linnean Society_. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Goncalves_et_al.pdf)
 
-Backes A, Pezzi PH, **Gonçalves LT**, Greppi JA, Freitas LB. 2023. Integrating morphology, niche modelling, and molecular data to disentangle taxonomic challenges in a species complex of _Calibrachoa_ (Solanaceae). _Plant Ecology & Diversity_. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Backes_et_al.pdf)
+Backes A, Pezzi PH, **Gonçalves LT**, Greppi JA, Freitas LB. 2023. Integrating morphology, niche modelling, and molecular data to disentangle taxonomic challenges in a species complex of _Calibrachoa_ (Solanaceae). _Plant Ecology & Diversity_ 16(5-6): 165−177. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Backes_et_al.pdf)
 
 Lindner MF, **Gonçalves LT**, Bianchi FM, Ferrari A, Cavalleri A. 2023. Tiny insects, big troubles: a review of BOLD's COI database for Thysanoptera (Insecta). _Bulletin of Entomological Research_ 113(5): 703−715. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Lindner_et_al.pdf)
 
