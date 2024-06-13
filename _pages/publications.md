@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2024
 
-Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. 2024. How do novel evolutionary lineages arise in a biodiversity hotspot? Insights into the dynamics of rapid diversification of _Petunia_. _Evolution_, Under Review.
+Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. 2024. How do novel evolutionary lineages arise in a biodiversity hotspot? Insights into the dynamics of rapid diversification of _Petunia_. Under Review.
 
 ## 2023
 **Gonçalves LT**, Françoso E, Deprá M. 2023. Mitochondrial phylogenomics of bumblebees, _Bombus_ (Hymenoptera: Apidae): a tale of structural variation, shifts in selection constraints, and tree discordance. _Zoological Journal of the Linnean Society_. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Goncalves_et_al.pdf)
