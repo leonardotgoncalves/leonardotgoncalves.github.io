@@ -5,12 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can also check my [Google Scholar page](https://scholar.google.com.br/citations?user=TiBaAVsAAAAJ&hl=en-US).
+
 ## 2024
+
+**Gonçalves LT**, Pezzi PH, Montagner FRG, Souza WV, Françoso E, Deprá M. The genome of the bellicose bumblebee (_Bombus bellicosus_), a threatened pollinator in a changing South American landscape. 2024. Under Review.
 
 Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. 2024. How do novel evolutionary lineages arise in a biodiversity hotspot? Insights into the dynamics of rapid diversification of _Petunia_. Under Review.
 
 ## 2023
-**Gonçalves LT**, Françoso E, Deprá M. 2023. Mitochondrial phylogenomics of bumblebees, _Bombus_ (Hymenoptera: Apidae): a tale of structural variation, shifts in selection constraints, and tree discordance. _Zoological Journal of the Linnean Society_. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Goncalves_et_al.pdf)
+**Gonçalves LT**, Françoso E, Deprá M. 2023. Mitochondrial phylogenomics of bumblebees, _Bombus_ (Hymenoptera: Apidae): a tale of structural variation, shifts in selection constraints, and tree discordance. _Zoological Journal of the Linnean Society_ 212(1): zlad178. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Goncalves_et_al.pdf)
 
 Backes A, Pezzi PH, **Gonçalves LT**, Greppi JA, Freitas LB. 2023. Integrating morphology, niche modelling, and molecular data to disentangle taxonomic challenges in a species complex of _Calibrachoa_ (Solanaceae). _Plant Ecology & Diversity_ 16(5-6): 165−177. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Backes_et_al.pdf)
 
