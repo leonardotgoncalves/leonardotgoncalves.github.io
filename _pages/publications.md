@@ -9,6 +9,8 @@ You can also check my [Google Scholar page](https://scholar.google.com.br/citati
 
 ## Under Review
 
+Backes A\*, **Gonçalves LT\***, Pezzi PH, Freitas LB. Phylogenomics reveals taxonomic challenges in _Calibrachoa_ (Solanaceae) and sheds light on the evolutionary origins of Million Bells cultivars. Under Review. \*these authors contributed equally to this work.
+
 **Gonçalves LT**, Pezzi PH, Montagner FRG, Souza WV, Françoso E, Deprá M. The genome of the bellicose bumblebee (_Bombus bellicosus_), a threatened pollinator in a changing South American landscape. Under Review.
 
 Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. Population genomics reveals the evolutionary origin of atypical _Petunia_ lineage from a biodiversity hotspot. Under Review.
