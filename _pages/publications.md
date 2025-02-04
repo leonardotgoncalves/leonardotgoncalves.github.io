@@ -9,7 +9,7 @@ You can also check my [Google Scholar page](https://scholar.google.com.br/citati
 
 ## Under Review
 
-Backes A\*, **Gonçalves LT\***, Pezzi PH, Freitas LB. Phylogenomics reveals taxonomic challenges in _Calibrachoa_ (Solanaceae) and sheds light on the evolutionary origins of Million Bells cultivars. Under Review. \*these authors contributed equally to this work.
+Backes A\*, **Gonçalves LT\***, Pezzi PH, Freitas LB. Phylogenomics reveals taxonomic challenges in _Calibrachoa_ (Solanaceae) and sheds light on the evolutionary origins of Million Bells cultivars. Under Review. <small>\*These authors contributed equally to this work</small>.
 
 Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. Population genomics reveals the evolutionary origin of atypical _Petunia_ lineage from a biodiversity hotspot. Under Review.
 
@@ -26,7 +26,7 @@ Lindner MF, **Gonçalves LT**, Bianchi FM, Ferrari A, Cavalleri A. 2023. Tiny in
 
 Françoso E, Zuntini AR, Ricardo PC, Santos PKF, Araujo NS, Silva JPN, **Gonçalves LT**, Brito R, Gloag R, Taylor BA, Harpur BA, Oldroyd BP, Brown MJF, Arias MC. 2023. Rapid evolution, rearrangements and whole mitogenome duplication in the Australian stingless bees _Tetragonula_ (Hymenoptera: Apidae): A steppingstone towards understanding mitochondrial function and evolution. _International Journal of Biological Macromolecules_ 242: 124568. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Francoso_et_al.pdf)
 
-Pezzi PH\*, **Gonçalves LT**\*, Deprá M, Freitas LB. 2023. Evolution and diversification of the O-methyltransferase (OMT) gene family in Solanaceae. _Genetics and Molecular Biology_ 46(3): e20230121. *these authors contributed equally to this work. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Pezzi_et_al.pdf)
+Pezzi PH\*, **Gonçalves LT**\*, Deprá M, Freitas LB. 2023. Evolution and diversification of the O-methyltransferase (OMT) gene family in Solanaceae. _Genetics and Molecular Biology_ 46(3): e20230121. <small>\*These authors contributed equally to this work</small>. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Pezzi_et_al.pdf)
 
 ## 2022
 
@@ -46,7 +46,7 @@ Bianchi FM, **Gonçalves LT**. 2021. Borrowing the Pentatomomorpha tome from the
 
 ## 2018
 
-Almerón-Souza F\*, Sperb C\*, Castilho CL, Figueiredo PICC, **Gonçalves LT**, Machado R, Oliveira LR, Valiati VH\*, Fagundes NJR\*. 2018. Molecular identification of shark meat from local markets in Southern Brazil based on DNA barcoding: evidence for mislabeling and trade of endangered species. _Frontiers in Genetics_ 9: 138. \*these authors contributed equally to this work. [[PDF]](http://leonardotgoncalves.github.io/files/2018_Almeron-Souza_et_al.pdf)
+Almerón-Souza F\*, Sperb C\*, Castilho CL, Figueiredo PICC, **Gonçalves LT**, Machado R, Oliveira LR, Valiati VH\*, Fagundes NJR\*. 2018. Molecular identification of shark meat from local markets in Southern Brazil based on DNA barcoding: evidence for mislabeling and trade of endangered species. _Frontiers in Genetics_ 9: 138. <small>\*These authors contributed equally to this work</small>. [[PDF]](http://leonardotgoncalves.github.io/files/2018_Almeron-Souza_et_al.pdf)
 
 
 {% if author.googlescholar %}
