@@ -48,7 +48,7 @@ Bianchi FM, **Gonçalves LT**. 2021. Borrowing the Pentatomomorpha tome from the
 
 ## 2018
 
-Almerón-Souza F\*, Sperb C\*, Castilho CL, Figueiredo PICC, **Gonçalves LT**, Machado R, Oliveira LR, Valiati VH\*, Fagundes NJR\*. 2018. Molecular identification of shark meat from local markets in Southern Brazil based on DNA barcoding: evidence for mislabeling and trade of endangered species. _Frontiers in Genetics_ 9: 138. <small>\*These authors contributed equally to this work</small>. [[PDF]](http://leonardotgoncalves.github.io/files/2018_Almeron-Souza_et_al.pdf)
+Almerón-Souza F, Sperb C, Castilho CL, Figueiredo PICC, **Gonçalves LT**, Machado R, Oliveira LR, Valiati VH, Fagundes NJR. 2018. Molecular identification of shark meat from local markets in Southern Brazil based on DNA barcoding: evidence for mislabeling and trade of endangered species. _Frontiers in Genetics_ 9: 138. [[PDF]](http://leonardotgoncalves.github.io/files/2018_Almeron-Souza_et_al.pdf)
 
 
 {% if author.googlescholar %}
