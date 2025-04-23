@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Montooth Lab at the University of Nebraska–Lincoln, where I study the genetic basis of wing dimorphism in _Gryllus_ field crickets to better understand the evolution of complex, multigenic traits.
+I am a postdoctoral researcher at the [Montooth Lab](http://montoothlab.unl.edu/) at the University of Nebraska–Lincoln, where I study the genetic basis of wing dimorphism in _Gryllus_ field crickets to better understand the evolution of complex, multigenic traits.
 
 Originally from Porto Alegre, Brazil, I recently completed my Ph.D. at the Federal University of Rio Grande do Sul, where I focused on mitochondrial genome evolution in bumblebees (_Bombus_). My work explored how mitochondrial DNA contributes to phylogenetics, species identification, and adaptation to different climatic niches, as well as its potential role in the evolution of social parasitism in cuckoo bumblebees (subgenus _Psithyrus_).
 
