@@ -1,21 +1,18 @@
 ---
 permalink: /
-title: "Welcome! 🐝"
-excerpt: "Welcome! 🐝"
+title: "Hi, I am Leonardo! 🐝🦗"
+excerpt: "Hi, I am Leonardo! 🐝🦗"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am Leonardo Gonçalves, an evolutionary biologist from Porto Alegre, Brazil.
+I am a postdoctoral researcher at the Montooth Lab at the University of Nebraska–Lincoln, where I study the genetic basis of wing dimorphism in _Gryllus_ field crickets to better understand the evolution of complex, multigenic traits.
 
-Recently I completed my PhD at Federal University of Rio Grande do Sul (Brazil).
+Originally from Porto Alegre, Brazil, I recently completed my Ph.D. at the Federal University of Rio Grande do Sul, where I focused on mitochondrial genome evolution in bumblebees (_Bombus_). My work explored how mitochondrial DNA contributes to phylogenetics, species identification, and adaptation to different climatic niches, as well as its potential role in the evolution of social parasitism in cuckoo bumblebees (subgenus _Psithyrus_).
 
-My primary research focus has been on mitochondrial DNA evolution, using bumblebees (_Bombus_) as a study system. Besides evaluating the utility of mitochondrial DNA in bee phylogenetics and taxonomic identification, I want to unravel its role in climatic niche adaptation and the intriguing transition to social parasitism in cuckoo bumblebees (subgenus _Psithyrus_).
-
-As someone with a passion for integrative evolutionary biology, I look forward to combine observational studies, physiology, and bioinformatics in my upcoming projects!
-
+Broadly, I am passionate about integrative evolutionary biology — combining genomics, bioinformatics, and ecological data to investigate how genetic and evolutionary processes shape biodiversity. My past and ongoing research spans topics like mitonuclear ecology, DNA barcoding, phylogenomics, molecular evolution, and systematics.
 <!---
 
 Olá! Sou Leonardo Gonçalves, um biólogo evolucionista de Porto Alegre - RS.
