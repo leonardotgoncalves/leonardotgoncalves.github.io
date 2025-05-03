@@ -19,7 +19,7 @@ Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, 
 
 ## Published
 
-**Gonçalves LT**, Pezzi PH, Montagner FRG, Souza WV, Françoso E, Deprá M. The nuclear and mitochondrial genomes of the bellicose bumblebee (_Bombus bellicosus_, Hymenoptera: Apidae), a threatened pollinator in a changing South American landscape. _Genome_ 68.
+**Gonçalves LT**, Pezzi PH, Montagner FRG, Souza WV, Françoso E, Deprá M. The nuclear and mitochondrial genomes of the bellicose bumblebee (_Bombus bellicosus_, Hymenoptera: Apidae), a threatened pollinator in a changing South American landscape. _Genome_ 68. [[PDF]](http://leonardotgoncalves.github.io/files/2025_Goncalves_et_al.pdf)
 
 **Gonçalves LT**, Françoso E, Deprá M. 2024. Mitochondrial phylogenomics of bumblebees, _Bombus_ (Hymenoptera: Apidae): a tale of structural variation, shifts in selection constraints, and tree discordance. _Zoological Journal of the Linnean Society_ 212(1): zlad178. [[PDF]](http://leonardotgoncalves.github.io/files/2023_Goncalves_et_al.pdf)
 
