@@ -9,7 +9,7 @@ You can also check my [Google Scholar page](https://scholar.google.com.br/citati
 
 ## Under Review
 
-Almerón-Souza F, **Gonçalves LT**, Fagundes NJR. Fifty shades of white fish: DNA barcoding reveals widespread misidentification in sushi restaurants from Southern Brazil. Under Review.
+Almerón-Souza F, **Gonçalves LT**, Fagundes NJR. Fifty shades of white fish: DNA barcoding reveals widespread misidentification in sushi restaurants from Southern Brazil. Under Review. [[Preprint]](https://doi.org/10.1101/2025.05.02.651977)
 
 **Gonçalves LT**, Pezzi PH, Deprá M, Françoso E. Mitonuclear coevolution in bumblebees (_Bombus_): genomic signatures and its role in climatic niche adaptation. Under Review.
 
