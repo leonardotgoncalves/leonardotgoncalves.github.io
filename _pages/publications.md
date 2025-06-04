@@ -11,11 +11,13 @@ You can also check my [Google Scholar page](https://scholar.google.com.br/citati
 
 Almerón-Souza F, **Gonçalves LT**, Fagundes NJR. Fifty shades of white fish: DNA barcoding reveals widespread misidentification in sushi restaurants from Southern Brazil. Under Review. [[Preprint]](https://doi.org/10.1101/2025.05.02.651977)
 
-**Gonçalves LT**, Pezzi PH, Deprá M, Françoso E. Mitonuclear coevolution in bumblebees (_Bombus_): genomic signatures and its role in climatic niche adaptation. Under Review.
-
 Backes A\*, **Gonçalves LT\***, Pezzi PH, Freitas LB. Phylogenomics reveals taxonomic challenges in _Calibrachoa_ (Solanaceae) and sheds light on the evolutionary origins of Million Bells cultivars. Under Review. <small>\*These authors contributed equally to this work</small>.
 
 Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. Population genomics reveals the evolutionary origin of atypical _Petunia_ lineage from a biodiversity hotspot. Under Review.
+
+## Accepted
+
+**Gonçalves LT**, Pezzi PH, Deprá M, Françoso E. Mitonuclear coevolution in bumblebees (_Bombus_): genomic signatures and its role in climatic niche adaptation. Genome Biology and Evolution.
 
 ## Published
 
