@@ -17,7 +17,7 @@ Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, 
 
 ## Accepted
 
-**Gonçalves LT**, Pezzi PH, Deprá M, Françoso E. Mitonuclear coevolution in bumblebees (_Bombus_): genomic signatures and its role in climatic niche adaptation. Genome Biology and Evolution.
+**Gonçalves LT**, Pezzi PH, Deprá M, Françoso E. Mitonuclear coevolution in bumblebees (_Bombus_): genomic signatures and its role in climatic niche adaptation. _Genome Biology and Evolution_.
 
 ## Published
 
