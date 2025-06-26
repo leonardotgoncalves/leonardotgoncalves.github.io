@@ -15,7 +15,7 @@ Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, 
 
 ## Accepted
 
-Backes A\*, **Gonçalves LT\***, Pezzi PH, Freitas LB. Phylogenomics reveals taxonomic challenges in _Calibrachoa_ (Solanaceae) and sheds light on the origins of cultivated million bells. _Molecular Phylogenetics and Evolution_. <small>\*These authors contributed equally to this work</small>.
+Backes A\*, **Gonçalves LT\***, Pezzi PH, Freitas LB. 2025. Phylogenomics reveals taxonomic challenges in _Calibrachoa_ (Solanaceae) and sheds light on the origins of cultivated million bells. _Molecular Phylogenetics and Evolution_. <small>\*These authors contributed equally to this work</small>.
 
 ## Published
 
