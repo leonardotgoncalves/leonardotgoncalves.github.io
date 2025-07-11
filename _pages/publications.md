@@ -15,7 +15,7 @@ Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, 
 
 ## Published
 
-Backes A\*, **Gonçalves LT\***, Pezzi PH, Freitas LB. 2025. Phylogenomics reveals taxonomic challenges in _Calibrachoa_ (Solanaceae) and sheds light on the origins of cultivated million bells. _Molecular Phylogenetics and Evolution_ 211: 108405. <small>\*These authors contributed equally to this work</small>.
+Backes A\*, **Gonçalves LT\***, Pezzi PH, Freitas LB. 2025. Phylogenomics reveals taxonomic challenges in _Calibrachoa_ (Solanaceae) and sheds light on the origins of cultivated million bells. _Molecular Phylogenetics and Evolution_ 211: 108405. <small>\*These authors contributed equally to this work</small>. [[PDF]](http://leonardotgoncalves.github.io/files/2025_Backes_et_al.pdf)
 
 **Gonçalves LT**, Pezzi PH, Deprá M, Françoso E. 2025. Mitonuclear coevolution in bumblebees (_Bombus_): genomic signatures and its role in climatic niche adaptation. _Genome Biology and Evolution_ 17(7): evaf123. [[PDF]](https://doi.org/10.1093/gbe/evaf123)
 
