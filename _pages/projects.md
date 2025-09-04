@@ -1,19 +1,19 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-## Diversification of South American *Agalinis*
+## Mitochondrial DNA evolution in bumblebees (_Bombus_)
 <img src="/images/placeholder.jpg" width="350" align="left" >
 Placeholder
 
+## The genome of the threatened bellicose bumblebee (_Bombus bellicosus_)
+<img src="/images/placeholder.jpg" width="350" align="left" >
+Placeholder
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
 {% endfor %}
 
