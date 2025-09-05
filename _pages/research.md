@@ -7,7 +7,7 @@ author_profile: true
 
 ## Mitochondrial DNA evolution in bumblebees (_Bombus_)
 <img src="/images/placeholder.jpg" width="350" align="left" >
-Placeholder
+Placeholder ----
 
 ## The genome of the threatened bellicose bumblebee (_Bombus bellicosus_)
 <img src="/images/placeholder.jpg" width="350" align="left" >
