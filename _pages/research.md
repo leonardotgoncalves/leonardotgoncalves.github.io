@@ -14,6 +14,3 @@ Placeholder 1234 ----
 Placeholder
 
 {% include base_path %}
-
-{% endfor %}
-
