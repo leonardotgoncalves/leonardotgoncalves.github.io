@@ -18,3 +18,7 @@ I use genomic approaches to investigate how insects adapt to their environments 
 Phylogenies are essential for testing evolutionary hypotheses, yet they are often complicated by conflict and taxonomic uncertainty. I address these challenges in both animals and plants by combining genome-wide data with morphology and niche modelling. I am also interested in the opportunities and limitations of DNA barcoding for specimen identification and species delimitation, particularly in taxa where these approaches are underexplored.
 
 {% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
