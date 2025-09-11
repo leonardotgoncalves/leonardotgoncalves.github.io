@@ -7,7 +7,7 @@ author_profile: true
 
 ## Mitonuclear ecology and climatic niche adaptation
 <img src="/images/mitonuclear.png" width="350" align="left" >
-Cellular respiration relies on a coordinated interaction between mitochondrial and nuclear genes, yet the evolutionary dynamics of these interactions remain poorly understood. I am interested in understanding how mitonuclear interactions shape evolutionary adaptation and might have implications for predicting how species respond to environmental change. During my PhD I have used bumblebees (Bombus) as a study system to understand the dynamics of mitonuclear evolution among closely related species and also the influence of environmental factors in mitonuclear evolution.
+Cellular respiration relies on a coordinated interaction between mitochondrial and nuclear genes, yet the evolutionary dynamics of these interactions remain poorly understood. I am interested in understanding how mitonuclear interactions shape evolutionary adaptation and might have implications for predicting how species respond to environmental change. During my PhD I have used bumblebees (_Bombus_) as a study system to understand the dynamics of mitonuclear evolution among closely related species and also the influence of environmental factors in mitonuclear evolution.
 
 ## Evolutionary genomics of adaptation in insects
 <img src="/images/genomics.png" width="350" align="left" >
