@@ -11,7 +11,7 @@ You can also check my [Google Scholar page](https://scholar.google.com.br/citati
 
 Almerón-Souza F, **Gonçalves LT**, Fagundes NJR. Fifty shades of white fish: DNA barcoding reveals widespread misidentification in sushi restaurants from Southern Brazil. Under Review. [[Preprint]](https://doi.org/10.1101/2025.05.02.651977)
 
-Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. Population genomics reveals the evolutionary origin of atypical _Petunia_ lineage from a biodiversity hotspot. Under Review.
+Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. Genomic insights into atypical _Petunia_ populations from a biodiversity hotspot in the South American grasslands. Under Review.
 
 ## Published
 
