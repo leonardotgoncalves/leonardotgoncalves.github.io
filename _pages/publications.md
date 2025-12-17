@@ -11,9 +11,9 @@ You can also check my [Google Scholar page](https://scholar.google.com.br/citati
 
 Almerón-Souza F, **Gonçalves LT**, Fagundes NJR. Fifty shades of white fish: DNA barcoding reveals widespread misidentification in sushi restaurants from Southern Brazil. Under Review. [[Preprint]](https://doi.org/10.1101/2025.05.02.651977)
 
-Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. Genomic insights into atypical _Petunia_ populations from a biodiversity hotspot in the South American grasslands. Under Review.
-
 ## Published
+
+Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. 2025. Genomic insights into the rapid diversification of _Petunia_ in a biodiversity hotspot in the South American grasslands. _Annals of Botany_: mcaf329.
 
 Backes A\*, **Gonçalves LT\***, Pezzi PH, Freitas LB. 2025. Phylogenomics reveals taxonomic challenges in _Calibrachoa_ (Solanaceae) and sheds light on the origins of cultivated million bells. _Molecular Phylogenetics and Evolution_ 211: 108405. <small>\*These authors contributed equally to this work</small>. [[PDF]](http://leonardotgoncalves.github.io/files/2025_Backes_et_al.pdf)
 
