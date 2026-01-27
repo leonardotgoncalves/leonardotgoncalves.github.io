@@ -11,7 +11,7 @@ You can also check my [Google Scholar page](https://scholar.google.com.br/citati
 
 Almerón-Souza F, **Gonçalves LT**, Fagundes NJR. Fifty shades of white fish: DNA barcoding reveals widespread misidentification in sushi restaurants from Southern Brazil. Under Review. [[Preprint]](https://doi.org/10.1101/2025.05.02.651977)
 
-Soares LS, **Gonçalves LT**, Guzmán-Rodriguez S, Bombarely A, Freitas LB. Reference genome choice impacts SNP recovery but not evolutionary inference in recently diverged species. Under Review.
+Soares LS, **Gonçalves LT**, Guzmán-Rodriguez S, Bombarely A, Freitas LB. Reference genome choice impacts SNP recovery but not evolutionary inference in young species. Under Review.
 
 ## Published
 
