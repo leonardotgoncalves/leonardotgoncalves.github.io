@@ -15,7 +15,7 @@ Soares LS, **Gonçalves LT**, Guzmán-Rodriguez S, Bombarely A, Freitas LB. Refe
 
 ## Published
 
-Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. 2025. Genomic insights into the rapid diversification of _Petunia_ in a biodiversity hotspot in the South American grasslands. _Annals of Botany_: mcaf329.
+Pezzi PH, **Gonçalves LT**, Backes A, Giudicelli GC, Turchetto C, Bombarely A, Freitas LB. 2025. Genomic insights into the rapid diversification of _Petunia_ in a biodiversity hotspot in the South American grasslands. _Annals of Botany_ 137(5): 1335−1348.
 
 Backes A\*, **Gonçalves LT\***, Pezzi PH, Freitas LB. 2025. Phylogenomics reveals taxonomic challenges in _Calibrachoa_ (Solanaceae) and sheds light on the origins of cultivated million bells. _Molecular Phylogenetics and Evolution_ 211: 108405. <small>\*These authors contributed equally to this work</small>. [[PDF]](http://leonardotgoncalves.github.io/files/2025_Backes_et_al.pdf)
 
